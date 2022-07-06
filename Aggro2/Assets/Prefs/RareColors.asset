@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 709b5a1d1f39a3040aa321fb2cda5464, type: 3}
+  m_Name: RareColors
+  m_EditorClassIdentifier: 
+  rareColor0: {r: 1, g: 1, b: 1, a: 0}
+  rareColor1: {r: 0.31180158, g: 0.8113208, b: 0, a: 1}
+  rareColor2: {r: 0, g: 0.6784314, b: 0.85882354, a: 1}
+  rareColor3: {r: 0.6431373, g: 0.2627451, b: 0.8392157, a: 1}
+  rareColor4: {r: 0.8584906, g: 0.77825785, b: 0, a: 1}
+  soulPoison: {r: 0.39805818, g: 1, b: 0, a: 1}
+  soulFire: {r: 1, g: 0.26810136, b: 0, a: 1}
+  soulElectric: {r: 0.9937501, g: 1, b: 0, a: 1}
+  soulIce: {r: 0, g: 0.5265317, b: 1, a: 1}
+  soulEarth: {r: 0.7924528, g: 0.43569258, b: 0.15325737, a: 1}
+  soulSweet: {r: 1, g: 0, b: 0.7253394, a: 1}
+  soulDark: {r: 0.4716981, g: 0.4716981, b: 0.4716981, a: 1}
+  soulMage: {r: 0.63765717, g: 0, b: 1, a: 1}
+  damage_ap: {r: 0, g: 0.4431373, b: 0.79215693, a: 1}
+  damage_ad: {r: 0.79215693, g: 0.41176474, b: 0, a: 1}
+  damage_crit: {r: 0.79215693, g: 0.7372549, b: 0.003921569, a: 1}
+  healthState_heal: {r: 0.43675542, g: 1, b: 0, a: 1}
+  diamondColor: {r: 0, g: 0.91636705, b: 1, a: 1}
+  colorFixMod: {r: 0.79215693, g: 0.79215693, b: 0.79215693, a: 1}

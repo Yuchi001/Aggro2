@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b397d103ccd0aa0458e69fb8f73e8650, type: 3}
+  m_Name: ScalersMenu
+  m_EditorClassIdentifier: 
+  vitalED_armor: 5
+  vitalED_magicRessists: 5
+  vitalED_healthGain: 50
+  defED_armor: 0
+  defED_magicRessists: 0
+  senative_armor: 0
+  senative_magicRessists: 0
+  steelClad_armor: 0
+  steelClad_magicRessists: 0
+  resistant_armor: 0
+  resistant_magicRessists: 0
+  weaponCost: 15
+  sword_ability_damageScaler: 0.2
+  sword_ability_apScaler: 0.4
+  gun_ability_damageScaler: 0.2
+  gun_ability_apScaler: 0.4
+  bow_ability_damageScaler: 0.3
+  bow_ability_apScaler: 0.1
+  wand_ability_apScaler: 0.7
+  xBoundsMax: 8.2
+  xBoundsMin: -9.3
+  yBoundsMax: 5.2
+  yBoundsMin: -1.99
+  damage_gun: 0.2
+  fireRate_gun: 0.4
+  bulletSpeed_gun: 6
+  bulletRange_gun: 1
+  size_gun: 1
+  damage_sword: 0.5
+  attackRate_sword: 0.25
+  attackRadious_sword: 1
+  passiveSwordCritChance_sword: 0.05
+  damage_wand: 0.15
+  chargingSpeed_wand: 1
+  autoAbilityRange_wand: 0.8
+  additionalApScaler_wand: 0.3
+  attackSpeed_wand: 0
+  additionalCDR_wand: 0.05
+  autoAbilitySpeed_wand: 1
+  damage_bow: 0.3
+  chargingAttackTime_bow: 1.5
+  arrowsSize_bow: 0.8
+  arrowStayTime_bow: 3
+  arrowSpeed_bow: 4.5
+  arrowRange_bow: 0.6

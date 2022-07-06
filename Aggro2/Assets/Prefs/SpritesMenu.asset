@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee6900cb69df5de4ba9f5f48c4365d1a, type: 3}
+  m_Name: SpritesMenu
+  m_EditorClassIdentifier: 
+  ability_gun: {fileID: 21300000, guid: f01838a0317d9f64f85b0626930932e9, type: 3}
+  ability_bow: {fileID: 21300000, guid: 8c02a5c834770aa4d9f50e8c756dbdf8, type: 3}
+  ability_wand: {fileID: 21300000, guid: 419624a65f98c844b9f12d257a6c8226, type: 3}
+  ability_sword: {fileID: 21300000, guid: 929b6b1de78a0c84b80d107530b9b605, type: 3}
+  brownStacks_faze1: {fileID: 21300000, guid: baa67778ee06234429ef81452cb6855f, type: 3}
+  brownStacks_faze2: {fileID: 21300000, guid: 46062ef5da072734793ba0921095b412, type: 3}
+  brownStacks_faze3: {fileID: 21300000, guid: e93172881064c7d438c21f96b4745754, type: 3}
+  crown_vItem: {fileID: 21300000, guid: 5b9005e65b2770a4f8b6f603298af329, type: 3}
+  ball_vItem: {fileID: 21300000, guid: fa82a5173ed22c0459e26e2bcee36f3e, type: 3}
+  coin_vItem: {fileID: 21300000, guid: c4ec24814532dad4d96e184379d65105, type: 3}
+  coin2_vItem: {fileID: 21300000, guid: 8c44bb08b4477c9409fc7b43e9639d5b, type: 3}
+  manyCoins_vItem: {fileID: 21300000, guid: c8b510c967b52704397a018cf124ef14, type: 3}
+  diamond_vItem: {fileID: 21300000, guid: ba3ffa5b19bce56488fa55b4e89f2632, type: 3}
+  crown_vItem_UI: {fileID: 21300000, guid: 900bbae58ff1a83458f165c18e040cb3, type: 3}
+  ball_vItem_UI: {fileID: 21300000, guid: ddac7950bafbd0d42951721d89c95a42, type: 3}
+  coin_vItem_UI: {fileID: 21300000, guid: 8701429726be1624ba8f81d4c95c2134, type: 3}
+  coin2_vItem_UI: {fileID: 21300000, guid: c3d3d010d5132394fb862b43594a04d4, type: 3}
+  manyCoins_vItem_UI: {fileID: 21300000, guid: 7171ab304e349c048af4e76a1bfe7679, type: 3}
+  diamond_vItem_UI: {fileID: 21300000, guid: cb95d0899128f66478157dd28500952f, type: 3}
+  crown_vItem_OB: {fileID: 21300000, guid: 756bbf50c5e6bd24aa0f108dfb3301f6, type: 3}
+  ball_vItem_OB: {fileID: 21300000, guid: 9c09765320024c44d8d5abe2e7836eae, type: 3}
+  coin_vItem_OB: {fileID: 21300000, guid: 24dc1d394752d0042b5882bc10a3f09d, type: 3}
+  coin2_vItem_OB: {fileID: 21300000, guid: a9bcc84306a9e914b8c4420517499556, type: 3}
+  manyCoins_vItem_OB: {fileID: 21300000, guid: c92a6e3afbf71cd4dbecb7a2cc53846e, type: 3}
+  diamond_vItem_OB: {fileID: 21300000, guid: d8eecacb048095648a08bd090eb5ea7c, type: 3}
+  bow_defBowOut: {fileID: 21300000, guid: b5a1fb689efe72049ac47eab0501babb, type: 3}
+  bow_longBowOut: {fileID: 21300000, guid: 48c251ade23048647935be125302335e, type: 3}
+  bow_crossBowOut: {fileID: 21300000, guid: f4776d0348e519b42af19c1952387dfd, type: 3}
+  bow_defBow: {fileID: 21300000, guid: adc31ea39ebe4b240a2e45b681088751, type: 3}
+  bow_longBow: {fileID: 21300000, guid: 6ca602356ecf7cf4aa8a89a16fd4707e, type: 3}
+  bow_crossBow: {fileID: 21300000, guid: 0db9182c9ffe40a48a14c4de49a9481f, type: 3}
+  bow_defBowItem: {fileID: 21300000, guid: 43aea2f33a440e34eb91b288944db19f, type: 3}
+  bow_longBowItem: {fileID: 21300000, guid: 7c72bdc9550e0254b979c5760415c376, type: 3}
+  bow_crossBowItem: {fileID: 21300000, guid: 2a814859e1081934a81d2424b4433de7, type: 3}
+  gun_PistolOut: {fileID: 21300000, guid: edd286e99e64ef146b1914c2c368e6da, type: 3}
+  gun_ShootGunOut: {fileID: 21300000, guid: c99737e26c9557445a7bdcf70bef32f5, type: 3}
+  gun_SniperOut: {fileID: 21300000, guid: fa7a7994bc11d6441967cc17d3d6940d, type: 3}
+  gun_UziOut: {fileID: 21300000, guid: 624b9f91a975a634088436733edd472d, type: 3}
+  gun_MachineGunOut: {fileID: 21300000, guid: 77d012292cc591747bdb0539b82ccaa8, type: 3}
+  gun_Pistol: {fileID: 21300000, guid: 056fa37688769104e901a43fbbe84af2, type: 3}
+  gun_ShootGun: {fileID: 21300000, guid: b2982f4d22401cf4b857eb062259710f, type: 3}
+  gun_Sniper: {fileID: 21300000, guid: 83188ce5b87cf3046b15cc69f03b9d94, type: 3}
+  gun_Uzi: {fileID: 21300000, guid: a521b81e745639b41b3592d069dde03a, type: 3}
+  gun_MachineGun: {fileID: 21300000, guid: 31640cfd4118f72419e1d4c0f3004a0b, type: 3}
+  gun_PistolItem: {fileID: 21300000, guid: 38106056b550ce54ca946185cf134dae, type: 3}
+  gun_ShootGunItem: {fileID: 21300000, guid: acb808b67b5ce7249adf34b7e769cea3, type: 3}
+  gun_SniperItem: {fileID: 21300000, guid: b60282445cb1e6743a11e29fa20dabd0, type: 3}
+  gun_UziItem: {fileID: 21300000, guid: 3319a339718c283459645cb6e3a3b40e, type: 3}
+  gun_MachineGunItem: {fileID: 21300000, guid: b00b8fc5482d1464faf025e817aac59f, type: 3}
+  sword_stealSwordOut: {fileID: 21300000, guid: 4173428fe5d6bae498b838f1c0bdf87c,
+    type: 3}
+  sword_lightsaberOut: {fileID: 21300000, guid: 5982cc457c149914eb53f1bc3aea1e68,
+    type: 3}
+  sword_wideSwordOut: {fileID: 21300000, guid: 256462017b205fc4583649b78dc80b2d, type: 3}
+  sword_scytheOut: {fileID: 21300000, guid: 1543a17fa6a7762448396142a7280b46, type: 3}
+  sword_rapierOut: {fileID: 21300000, guid: f4263bac12c48f74ab41ecc8e13f7fe6, type: 3}
+  sword_stealSword: {fileID: 21300000, guid: c229e7a475cc85d41a84f1bf061ee143, type: 3}
+  sword_lightsaber: {fileID: 21300000, guid: 22f5cc0203f99684f9adef020b26aabf, type: 3}
+  sword_wideSword: {fileID: 21300000, guid: be43fae064da0a64bb3d37808dbd2b68, type: 3}
+  sword_scythe: {fileID: 21300000, guid: cc9684b3245c2a343bcfdc2e228fee16, type: 3}
+  sword_rapier: {fileID: 21300000, guid: dcb1117615cc73740a2f33e6cf09bef4, type: 3}
+  sword_stealSwordItem: {fileID: 21300000, guid: eaf07c6e2613a2046963307c5e3aabae,
+    type: 3}
+  sword_lightsaberItem: {fileID: 21300000, guid: 272c63f170a19ba4c823cc4c9a2f8678,
+    type: 3}
+  sword_wideSwordItem: {fileID: 21300000, guid: ebd4ae13003baad48b0e5993fe891075,
+    type: 3}
+  sword_scytheItem: {fileID: 21300000, guid: e06cc34f82f4072429472ec01462ccab, type: 3}
+  sword_rapierItem: {fileID: 21300000, guid: 82629f3f9bed2344381bb132d3f3aa98, type: 3}
+  wand_druidWandOut: {fileID: 21300000, guid: 4956bd70a1e40274986d244f77a66e55, type: 3}
+  wand_darkLordWandOut: {fileID: 21300000, guid: 1bd93b9761096f94c9578f222dbd2d7c,
+    type: 3}
+  wand_crystalWandOut: {fileID: 21300000, guid: c53f8fdc62a724749bf555cddae72180,
+    type: 3}
+  wand_defWandOut: {fileID: 21300000, guid: 987159394eb54b644a2acbe602a2f298, type: 3}
+  wand_occultScepterOut: {fileID: 21300000, guid: 8ca9549de54f9ce4289ead500319b8e2,
+    type: 3}
+  wand_druidWand: {fileID: 21300000, guid: 380211477b500a74da275ec87bf466e5, type: 3}
+  wand_darkLordWand: {fileID: 21300000, guid: 194a8e9c8c865514f8e1c5e671506b07, type: 3}
+  wand_crystalWand: {fileID: 21300000, guid: 2ac7bfa1e003af64da28c52dd7d27c62, type: 3}
+  wand_defWand: {fileID: 21300000, guid: 0d7b6204b15f4e940b8de20555b816de, type: 3}
+  wand_occultScepter: {fileID: 21300000, guid: d37e7cb18e3081b46996ec92e7f46344, type: 3}
+  wand_druidWandItem: {fileID: 21300000, guid: e0f3347b317508749b7b302401a14418, type: 3}
+  wand_darkLordWandItem: {fileID: 21300000, guid: a949af4703dbaf146bd5177e00c9e660,
+    type: 3}
+  wand_crystalWandItem: {fileID: 21300000, guid: ac1d1039cd70bc04083d576f6a939c13,
+    type: 3}
+  wand_defWandItem: {fileID: 21300000, guid: e574a93edc04e3b458127c7559745563, type: 3}
+  wand_occultScepterItem: {fileID: 21300000, guid: f77ab21802c9dbb41b057f4d4d9c2198,
+    type: 3}
+  wand_druidWandUI: {fileID: 21300000, guid: 93c7519309b09d24ea8f97074dea38b4, type: 3}
+  wand_darkLordWandUI: {fileID: 21300000, guid: c81aba3133904c74c89ecf400bec3049,
+    type: 3}
+  wand_crystalWandUI: {fileID: 21300000, guid: 29841463fcacb384a9ed63b36a05d28c, type: 3}
+  wand_defWandUI: {fileID: 21300000, guid: 89f13c83001c86f40ae1237a29c4a910, type: 3}
+  wand_occultScepterUI: {fileID: 21300000, guid: 26c93e7ccbd2ba24e85f83c4d4f75d56,
+    type: 3}
+  sword_stealSwordUI: {fileID: 21300000, guid: 421fd7de0e87ba74aae162d3c06b9530, type: 3}
+  sword_lightsaberUI: {fileID: 21300000, guid: 04b7674f851853648a06fba265e48a9d, type: 3}
+  sword_wideSwordUI: {fileID: 21300000, guid: c02a02d7ad73ce14da1fef3b7a2c248d, type: 3}
+  sword_scytheUI: {fileID: 21300000, guid: 1112632f0f1169f4591a19f6f01cc387, type: 3}
+  sword_rapierUI: {fileID: 21300000, guid: 8740dd8f38161e54c965d71d32e6c5d7, type: 3}
+  gun_PistolUI: {fileID: 21300000, guid: b7dc2d458fd235843925bf1466f07b56, type: 3}
+  gun_ShootGunUI: {fileID: 21300000, guid: c9ddb3e37fd641541bb167bc251c00b7, type: 3}
+  gun_SniperUI: {fileID: 21300000, guid: 7780e2da2cde9dd43856cef96872a083, type: 3}
+  gun_UziUI: {fileID: 21300000, guid: 2419bbbf8c9aa6f4f92de580db6b2925, type: 3}
+  gun_MachineGunUI: {fileID: 21300000, guid: 1dd8e9532e07dae4fb2c684d60902548, type: 3}
+  bow_defBowUI: {fileID: 21300000, guid: c973f15996f0b9849a7ca8e2abf8f088, type: 3}
+  bow_longBowUI: {fileID: 21300000, guid: e2eb9694bb46b9640b9fbe9b8c0fb271, type: 3}
+  bow_crossBowUI: {fileID: 21300000, guid: 794bd486c7c4cd44a82d0f0f99fb539d, type: 3}
